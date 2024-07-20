@@ -4,7 +4,7 @@ Supports: Pytorch >= 1.2.0 with Python >= 3.6
 
 ## About
 
-This is an modified version of [Music Transformer](https://github.com/gwinndr/MusicTransformer-Pytorch)
+This is a modified version of [Music Transformer](https://github.com/gwinndr/MusicTransformer-Pytorch)
 
 ## Generated Music:
 
