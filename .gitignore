@@ -1,0 +1,10 @@
+**/saved_models/*
+**/outputGraphs/*
+
+**.mid
+**.pickle
+**.pyc
+**/__pycache__/*
+**/third_party/midi_processor/*
+**/third_party/pretty_midi/*
+**.idea

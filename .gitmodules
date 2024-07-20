@@ -1,0 +1,6 @@
+[submodule "third_party/midi_processor"]
+	path = third_party/midi_processor
+	url = https://github.com/jason9693/midi-neural-processor
+[submodule "third_party/pretty_midi"]
+	path = third_party/pretty_midi
+	url = https://github.com/craffel/pretty-midi
